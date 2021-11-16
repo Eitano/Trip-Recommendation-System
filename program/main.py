@@ -15,8 +15,6 @@ def run_app():
 
 results = run_app()
 
-# trip_Map('C:/Users/user/Downloads', results[1], show_=True)
-
 
 
 
