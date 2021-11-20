@@ -15,3 +15,8 @@ It should be noted that the web-scraping on KAYAK website includes handling of b
 
 
 https://nbviewer.org/github/Eitano/Trip-Recommendation-System/blob/main/jupyter%20trust%20notebook-Forcast%26Fly.ipynb%20.ipynb
+
+
+
+file:///C:/Users/user/Desktop/Final%20Project,%20207024878,315681767,314977596%20(1)%20(3)/Final%20Project,%20207024878,315681767,314977596/Project_R.html
+
