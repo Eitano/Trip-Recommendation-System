@@ -1,13 +1,15 @@
 # Trip-Recommendation-System
 
-A system of recommendations for planning a trip abroad according to the weather forecast and making assessments for the ideal date for the trip.
+A worldwide trip planning recommendation system which considers weather forecast, available flights and optional visit locations.
 
-The system was built to create a user experience and all that is left is to select a destination and flight date and return
+The system was built to create an easy-to-use experience. The user is asked to select the destination and approximate flight dates. The system will query weather data and possible flights to optimize the itinerary. The system presents ranked best fits including maps, flight details and weather info.
 
-A integration between the user who marks his trip route and API calls according to the marked points.
-Revaluation of the best time and presentation of the itinerary on an interactive map along with the information retrieved on the forecast website.
-Finally search at KAYAK website to find the best flights. 
+This system uniqueness is that it considers weather as part of the itinerary optimization.
 
+The system query weather data from https://www.weatherbit.io/ using standard API, web-scraping on KAYAK website for the available flights and maps using folium.
+The data is stored in an SQL data base( MySQL, uses Panda for visualization. The user interface to present the recommendations includes maps of the itinerary and uses pop-up-windows to overlay the weather information on the map. 
+
+It should be noted that the web-scraping on KAYAK website includes handling of bot-checks, advertainment pop-up windows and exceptions.
 
 
 
