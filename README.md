@@ -14,8 +14,8 @@ It should be noted that the web-scraping on KAYAK website includes handling of b
 
 
 
+## Link to notebook:
 https://nbviewer.org/github/Eitano/Trip-Recommendation-System/blob/main/jupyter%20trust%20notebook-Forcast%26Fly.ipynb%20.ipynb
 
 
 
-https://rpubs.com/Eitano/837757
