@@ -7,8 +7,9 @@ The system was built to create an easy-to-use experience. The user is asked to s
 This system uniqueness is that it considers weather as part of the itinerary optimization.
 
 The system query weather data from https://www.weatherbit.io/ using standard API, web-scraping on KAYAK website for the available flights and maps using folium.
-The data is stored in an SQL data base( MySQL, uses Panda for visualization. The user interface to present the recommendations includes maps of the itinerary and uses pop-up-windows to overlay the weather information on the map. 
 
+The data is stored in an SQL data base( MySQL, uses Panda for visualization. 
+The user interface to present the recommendations includes maps of the itinerary and uses pop-up-windows to overlay the weather information on the map. 
 It should be noted that the web-scraping on KAYAK website includes handling of bot-checks, advertainment pop-up windows and exceptions.
 
 
